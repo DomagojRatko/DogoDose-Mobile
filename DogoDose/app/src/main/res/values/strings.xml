@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dogo Dose</string>
+    <string name="background_image">background_image</string>
+    <string name="double_tap_to_start_smiling">Double TAP to start smiling</string>
+</resources>
