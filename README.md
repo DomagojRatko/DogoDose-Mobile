@@ -13,4 +13,4 @@ Simple Android App that fetches images and facts from APIs and displays them on 
 * @version 1.0
 * @since 03.06.2022
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/62218857/156934568-b98f2781-2648-4135-b6cc-70ababc4b1d3.gif)
+https://im5.ezgif.com/tmp/ezgif-5-1d11c02257.gif
